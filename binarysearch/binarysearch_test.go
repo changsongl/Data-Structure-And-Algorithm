@@ -7,7 +7,7 @@ func TestSearch(t *testing.T) {
 	testCase := map[int]int{1: 0, 6: 2, 8: 3, 9: -1, 12: -1}
 
 	for num, index := range testCase{
-		result := search(bt, num)
+		result := Search(bt, num)
 		if result != index {
 			t.Errorf(
 				"Binary Search Failed: Finding number %d. Expect index %d, result %d",

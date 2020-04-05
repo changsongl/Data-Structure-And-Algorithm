@@ -2,7 +2,7 @@ package binarysearch
 
 // Base on binary tree slice to find the number.
 // return -1 not exist, otherwise return index
-func search(bt []int, num int) int{
+func Search(bt []int, num int) int{
 	low, high := 0, len(bt) - 1
 	for low <= high{
 		mid := (low + high) / 2
