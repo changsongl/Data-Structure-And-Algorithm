@@ -9,10 +9,12 @@ project for learning data structure, algorithm and Golang at same time.
 这个包是用来练习基础的数据结构和算法的一个练习，请不要直接引用这个包。大家可以通过
 借鉴这个包来学习Golang和数据结构和算法。`希望大家喜欢！` 
 
-#### Data Structure
+#
+
+### Data Structure
 [Binary Tree : April 5th, 2020](https://github.com/ChangsongLiQD/Data-Structure-And-Algorithm/tree/master/Binary%20Tree)
 
 [Queue(Linked List : April 7th, 2020)](https://github.com/ChangsongLiQD/Data-Structure-And-Algorithm/tree/master/Queue%28Linked%20List%29)
 
-#### Algorithm
+### Algorithm
 [Binary Search : April 5th, 2020](https://github.com/ChangsongLiQD/Data-Structure-And-Algorithm/tree/master/Binary%20Search)
