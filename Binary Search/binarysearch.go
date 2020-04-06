@@ -1,4 +1,4 @@
-package binarysearch
+package Binary_Search
 
 // Base on binary tree slice to find the number.
 // return -1 not exist, otherwise return index
