@@ -16,5 +16,7 @@ project for learning data structure, algorithm and Golang at same time.
 
 [Queue(Linked List : April 7th, 2020)](https://github.com/ChangsongLiQD/Data-Structure-And-Algorithm/tree/master/Queue%28Linked%20List%29)
 
+[Queue(Array : April 8th, 2020)](https://github.com/ChangsongLiQD/Data-Structure-And-Algorithm/tree/master/Queue%28Array%29)
+
 ### Algorithm
 [Binary Search : April 5th, 2020](https://github.com/ChangsongLiQD/Data-Structure-And-Algorithm/tree/master/Binary%20Search)
